@@ -1,0 +1,5 @@
+Benefits of using cloud services with DMS:
+
+-Easily set up a mirrored DMS server from anywhee else using the synced cloud folder.
+-Easily back up and access your server's data from anywhere in the world.
+-Easily create a failsafe for your DMS system, should the installed DMS be under maintenence.

@@ -1,0 +1,2 @@
+These files part of the X-DOS Dynamic Messaging System (X-DMS)
+do not edit these files.

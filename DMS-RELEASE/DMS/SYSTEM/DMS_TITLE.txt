@@ -1,0 +1,6 @@
+                            ----------------------------
+                            |Sysop:Change             |
+                            |Date set up:  these      |
+                            |Location:default         |
+                            |Message:     values      |
+                            ----------------------------

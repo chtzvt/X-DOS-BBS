@@ -1,0 +1,12 @@
+Create/edit these files:
+
+C:\DSOFT\DMS\ADMINTOOLS\SYSOPINFO.txt -This is information about you, the system operator.
+C:\DSOFT\DMS\ADMINTOOLS\SERVERLOCATIONINFO.txt -This is iformation about our server's location
+C:\DSOFT\DMS\ADMINTOOLS\SYSPASSWD.txt -This is the password used to access the administration console
+
+Edit the info box underneath the title
+
+in SYSTEM\admin.bat, edit the password used to access the command-line at the DMSCMD label
+
+
+
